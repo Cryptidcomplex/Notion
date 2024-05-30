@@ -1,0 +1,41 @@
+<div class="main-container">
+    <div class="content-container">
+        <div class="left-panel">
+            <div class="image-section" style="background-image:url('https://i.imgur.com/wTqRyFp.png');"></div>
+            <div class="image-section" style="background-image:url('https://i.imgur.com/h1g7ddc.png');"></div>
+            <div class="image-section" style="background-image:url('https://i.imgur.com/9ZBMsaV.png'); background-position:0px -20px;"></div>
+        </div>
+        <div class="scroll-container">
+            <div class="text-content">
+                <div class="title">- K Y L E -</div>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis elementum sapien, vitae facilisis velit. Mauris commodo, nisi eu efficitur imperdiet, sapien felis aliquet sapien, id faucibus purus dolor non quam. In vitae laoreet leo. In in semper erat. Integer aliquet ultricies dui sit amet semper. Nullam sed eros ex. In sed sodales urna. Suspendisse pretium pulvinar lacinia. Fusce dapibus a sapien a malesuada. Nunc quis volutpat lorem, eget accumsan urna. Donec porta a diam et aliquam.
+                ✁
+                Vestibulum eu eros nunc. Cras congue at elit sit amet condimentum. Curabitur sed tellus non lectus elementum varius sit amet id sapien. Nullam vestibulum dolor purus, a sagittis nibh porta ac. Sed felis erat, tempus ut porta nec, dictum nec justo. Nullam euismod quam quis erat tincidunt, quis facilisis risus commodo. Integer lobortis quam justo, non elementum ante rhoncus in. Fusce ac turpis vitae nulla pretium commodo in sed metus. Nam at gravida augue, blandit ornare libero. Phasellus non tortor dictum, posuere nisl at, aliquet tellus. Quisque maximus eget mi eu consectetur. Nam varius molestie urna. Donec sodales lectus eu commodo sollicitudin. Etiam consectetur rutrum lorem ut ultricies. Sed velit mi, finibus quis lacus a, pulvinar pellentesque ante. Nulla malesuada mi dictum erat fermentum, eu malesuada nibh mattis.
+                ✁
+                Aliquam eu orci tortor. Curabitur ullamcorper nulla eros, sit amet egestas leo facilisis sit amet. Aenean varius nulla vitae arcu mollis vehicula quis eu felis. Aenean hendrerit ac ex eget imperdiet. Vivamus nec lacus sed elit commodo dictum. In et fringilla sem, at cursus tortor. Aenean porta, nisl vel facilisis maximus, elit ipsum mattis neque, sagittis gravida velit eros quis massa. Donec cursus enim eu lacus efficitur, in scelerisque elit volutpat. Curabitur lobortis ipsum est, sed consectetur ipsum congue eget. Nam elit est, bibendum in consectetur nec, posuere vitae neque. In vitae purus porttitor, imperdiet enim at, luctus tortor. Integer facilisis ex nulla, eget vulputate risus ultricies in.
+                ✁
+                Aenean sed feugiat nulla. Mauris sit amet sodales augue. Cras feugiat consectetur consequat. Etiam laoreet metus felis, elementum lacinia lacus hendrerit sit amet. Donec varius quam malesuada justo vulputate commodo. Suspendisse bibendum felis nisi, vel commodo lorem sodales non. In pellentesque nibh imperdiet neque porta, commodo rhoncus nisl faucibus. Donec elementum congue tellus sit amet facilisis. Nullam congue cursus ligula et mattis. In vitae vehicula augue. Praesent at condimentum odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis dictum ex sit amet ullamcorper malesuada. Mauris sodales metus vel commodo consequat.
+            </div>
+            <div class="overlay"></div>
+        </div>
+    </div>
+    <div class="bottom-panel">
+        <div class="info-container">
+            <div class="info-text">Kyle Victor Jensen
+                <div class="quote">"Insert a fancy quote here - I just don't have one rn"</div>
+            </div>
+            <div class="media-container">
+                <div class="media-content">
+                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ivGh8XCzPTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <div class="media-overlay">
+                    <div class="media-controls">
+                        <i class="fa fa-play"></i> <i class="fa fa-pause"></i>
+                    </div>
+                    <div class="media-title">GREEN - CAVETOWN</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="floating-image" style="background-image:url('https://i.pinimg.com/564x/54/9f/ee/549fee9957b53d62d1305d0aa483522e.jpg');"></div>
+</div>
